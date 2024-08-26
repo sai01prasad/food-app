@@ -1,5 +1,5 @@
 import { AppLogo } from "../utils/constants";
-import NavItems from "./Nav-items";
+import NavItems from "./Navitems";
 
 const Header = () => {
     return(
