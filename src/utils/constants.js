@@ -1,0 +1,1 @@
+export const AppLogo = "https://e7.pngegg.com/pngimages/815/847/png-clipart-take-out-android-sindelantal-app-food-text-thumbnail.png";
