@@ -4,6 +4,8 @@
   "description": "It is a food delievary app",
   "main": "App.js",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "keywords": [
